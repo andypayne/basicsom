@@ -49,9 +49,10 @@ Now point your browser to http://localhost:8081/som, and click "Continue" to see
 the SOM in action.
 
 
-## License
+## License (BSD)
 
-Copyright (c) 2012, Andy Payne
+Copyright (c) 2012-2013 Andy Payne
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
